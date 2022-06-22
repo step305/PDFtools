@@ -1,0 +1,6 @@
+future
+PyPDF2
+opencv-python
+pdf2image
+numpy
+Pillow
